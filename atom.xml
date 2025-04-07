@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>安知鱼</title>
-  <icon>https://www.gravatar.com/avatar/e04bb745ddb4503076f6b8f540d5c60a</icon>
+  <title>枫榆</title>
+  <icon>https://www.gravatar.com/avatar/ed6b4e7b55492a1f8e500c9b6fc63faa</icon>
   <subtitle>生活明朗 万物可爱</subtitle>
   <link href="https://anheyu.com/atom.xml" rel="self"/>
   
@@ -10,8 +10,8 @@
   <id>https://anheyu.com/</id>
   
   <author>
-    <name>安知鱼</name>
-    <email>anzhiy-c@qq.com</email>
+    <name>枫榆</name>
+    <email>3620272964@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
